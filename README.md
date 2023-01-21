@@ -18,4 +18,4 @@ git push -u origin main
 
 git fetch
 or
-git pull
+git pull <- This is the required pull request to sync the repository to  the local repo
