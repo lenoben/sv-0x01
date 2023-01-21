@@ -13,3 +13,9 @@ git push -u origin main
 git remote add origin https://github.com/LenOben/mynodejs.git
 git branch -M main
 git push -u origin main
+
+# ...fetching from github
+
+git fetch
+or
+git pull
