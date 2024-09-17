@@ -6,7 +6,7 @@
 			<h1 class="font-semibold text-lg">
 				Stellar <span class="text-indigo-400">Styles</span>
 			</h1>
-			<p>©2024 Stellar Styles LTD. All rights reserved.</p>
+			<p>©2024 Stellar Styles ltd. All rights reserved.</p>
 		</div>
 		<div class="flex flex-col gap-4">
 			<p class="font-bold poppins text-base sm:text-lg">Support</p>
@@ -64,7 +64,7 @@
 			>
 		</div>
 	</div>
-	<div class="max-w-[1200px] mx-auto w-full text-base">
+	<div class="max-w-[1200px] mx-auto w-full text-base border-t-2 border-indigo-500 pt-2">
 		©2024 Built by <a href="https://github.com/lenoben"
 			><span class="text-indigo-500 font-semibold">lenoben</span></a
 		>
